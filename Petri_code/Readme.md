@@ -1,7 +1,7 @@
 
-========================================
+
 Petri Net Simulator (Version 1.0)
-========================================
+
 EN:
 - Simple Petri net simulation with random transition selection.
 - Places (S1..S7) store tokens and have capacity limits.
@@ -13,4 +13,5 @@ DE:
 - Stellen (S1..S7) speichern Token und haben Kapazitätsgrenzen.
 - In jedem Schritt wird eine Transition (t1..t4) zufällig gewählt und ggf. geschaltet.
 - Aktuelle Einschränkung: Doppelte Ausgaben und ungültige Schaltversuche werden noch NICHT gefiltert.
+
 
